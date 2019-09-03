@@ -1,0 +1,6 @@
+Bismillah
+
+Insha allah create slack like input field at the bottom
+
+---
+create input Enter Your Name? named name
